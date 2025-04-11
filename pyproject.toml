@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "leetcode"
-version = "0.1.0"
+version = "0.4.2"
 description = "LeetCode Resources"
 authors = ["Giansimone Perrino <hello@giansimone.dev>"]
 readme = "README.md"
